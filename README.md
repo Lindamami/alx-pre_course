@@ -1,2 +1,2 @@
-My first raedme
+My first readme
 I wrote something
